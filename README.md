@@ -6,3 +6,5 @@ some notes:::
 ~It's not GUI
 ~i didnt add Vs BOT mode , i will add it in future
 ~ its made with Java
+RULES:
+https://github.com/Lunatix01/CustomizedTic-Tac-Toe/wiki#rules
